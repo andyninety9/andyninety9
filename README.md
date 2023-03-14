@@ -1,9 +1,8 @@
 ![Header_andy](https://user-images.githubusercontent.com/114195582/224937528-4b9ab948-c78b-428b-bdaf-cc335763b1b3.png)
 # Hello World, I'm Andy <img src="https://media.giphy.com/media/u3NqET5KZHkOs/giphy.gif" width="30" /> <img src="https://media.giphy.com/media/vlwVZMjk5ivdYwkDWT/giphy.gif" width="40" />
 
-[![Gmail](https://img.shields.io/twitter/url?label=Gmail&logo=gmail&url=https://gmail.com)](mailto:duy.maianh26@gmail.com)
-[![Youtube](https://img.shields.io/twitter/url?label=Youtube&logo=youtube&url=https://youtube.com/channel/UCPyoqMKq7tppeRDZZi01mVQ)](https://www.youtube.com/channel/UCUlSAlxQpWeZzeh1B_CDibg)
-[![Linkedin](https://img.shields.io/twitter/url?label=Linkedin&logo=linkedin&url=https://linkedin.com/in/quankun)](https://www.linkedin.com/in/anh-duy-mai-a65683251/)
+[![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)](mailto:duy.maianh26@gmail.com)
+[![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)](https://www.linkedin.com/in/anh-duy-mai-a65683251/)
 <br />
 
 - <img src="https://media.giphy.com/media/XuBtcsV266vepmoEYG/giphy.gif" width="30" /> I am student at [FPT University.](https://daihoc.fpt.edu.vn/)
