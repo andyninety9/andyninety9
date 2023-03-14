@@ -1,3 +1,4 @@
+![Header_andy](https://user-images.githubusercontent.com/114195582/224937528-4b9ab948-c78b-428b-bdaf-cc335763b1b3.png)
 # Hello World, I'm Andy <img src="https://media.giphy.com/media/u3NqET5KZHkOs/giphy.gif" width="30" /> <img src="https://media.giphy.com/media/vlwVZMjk5ivdYwkDWT/giphy.gif" width="40" />
 
 [![Gmail](https://img.shields.io/twitter/url?label=Gmail&logo=gmail&url=https://gmail.com)](mailto:duy.maianh26@gmail.com)
@@ -11,3 +12,4 @@
 - " I would be delighted if you could follow me to stay connected and up-to-date on my latest activities and interests. Let's share our experiences and learn from each other. Thank you for considering joining me."
 
 <img src="https://img.icons8.com/color/256/c-plus-plus-logo.png" width="30" /> <img src="https://img.icons8.com/stickers/256/python.png" width="30" /> <img src="https://img.icons8.com/nolan/256/ibm.png" width="30" />
+
