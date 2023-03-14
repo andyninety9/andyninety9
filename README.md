@@ -3,7 +3,8 @@
 
 [![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)](mailto:duy.maianh26@gmail.com)
 [![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)](https://www.linkedin.com/in/anh-duy-mai-a65683251/)
-<br />
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=andyninety9&show_icons=true&theme=tokyonight">
 
 - <img src="https://media.giphy.com/media/XuBtcsV266vepmoEYG/giphy.gif" width="30" /> I am student at [FPT University.](https://daihoc.fpt.edu.vn/)
 - <img src="https://media.giphy.com/media/MCdT1HmNv7nAm7SWTf/giphy.gif" width="30" /> I specialize in Software Engineering.
