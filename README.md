@@ -9,3 +9,5 @@
 - <img src="https://media.giphy.com/media/MCdT1HmNv7nAm7SWTf/giphy.gif" width="30" /> I specialize in Software Engineering.
 - <img src="https://media.giphy.com/media/j60Al5O5MRr4AkNmkz/giphy.gif" width="30" /> I come from Vietnam and humbly seek global assistance with an open mind.
 - " I would be delighted if you could follow me to stay connected and up-to-date on my latest activities and interests. Let's share our experiences and learn from each other. Thank you for considering joining me."
+
+<img src="https://img.icons8.com/color/256/c-plus-plus-logo.png" width="30" /> <img src="https://img.icons8.com/stickers/256/python.png" width="30" /> <img src="https://img.icons8.com/nolan/256/ibm.png" width="30" />
