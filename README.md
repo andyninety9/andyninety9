@@ -1,4 +1,4 @@
-![Header_andy](https://user-images.githubusercontent.com/114195582/224937528-4b9ab948-c78b-428b-bdaf-cc335763b1b3.png)
+![image](https://github.com/andyninety9/andyninety9/assets/114195582/5131ad5a-2ae9-4142-a217-b52d46adfcef)![Header_andy](https://user-images.githubusercontent.com/114195582/224937528-4b9ab948-c78b-428b-bdaf-cc335763b1b3.png)
 # Hello World, I'm Andy <img src="https://media.giphy.com/media/u3NqET5KZHkOs/giphy.gif" width="30" /> <img src="https://media.giphy.com/media/vlwVZMjk5ivdYwkDWT/giphy.gif" width="40" />
 
 [![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=)](mailto:duy.maianh26@gmail.com)
@@ -11,5 +11,6 @@
 - <img src="https://media.giphy.com/media/j60Al5O5MRr4AkNmkz/giphy.gif" width="30" /> I come from Vietnam and humbly seek global assistance with an open mind.
 - " I would be delighted if you could follow me to stay connected and up-to-date on my latest activities and interests. Let's share our experiences and learn from each other. Thank you for considering joining me."
 
-<img src="https://img.icons8.com/color/256/c-plus-plus-logo.png" width="30" /> <img src="https://img.icons8.com/stickers/256/python.png" width="30" /> <img src="https://img.icons8.com/nolan/256/ibm.png" width="30" /> <img src="https://img.icons8.com/color/512/javascript--v1.png" width="30" /> <img src="https://img.icons8.com/color/512/react-native.png" width="30" /> <img src="https://icons8.com/icon/lTKW3iI3wIT0/java" width="30" />
+<img src="https://img.icons8.com/color/256/c-plus-plus-logo.png" width="30" /> <img src="https://img.icons8.com/stickers/256/python.png" width="30" /> <img src="https://img.icons8.com/nolan/256/ibm.png" width="30" /> <img src="https://img.icons8.com/color/512/javascript--v1.png" width="30" /> <img src="https://img.icons8.com/color/512/react-native.png" width="30" /> <img src="![image](https://github.com/andyninety9/andyninety9/assets/114195582/621e631c-96fe-40b5-aafd-cdace237ea62)
+" width="30" />
 
