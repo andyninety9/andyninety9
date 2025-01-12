@@ -39,7 +39,7 @@
 
 ### 📊 GitHub Stats
 <div align="center" style="font-size:14px">
-    <img src="https://github-readme-stats.vercel.app/api?username=andyninety9&show_icons=true&theme=radical" width="48%" alt="GitHub Stats"/>
+<!--     <img src="https://github-readme-stats.vercel.app/api?username=andyninety9&show_icons=true&theme=radical" width="48%" alt="GitHub Stats"/> -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andyninety9&layout=compact&theme=radical" width="48%" alt="Top Languages"/>
 </div>
 
