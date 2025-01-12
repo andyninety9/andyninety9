@@ -7,7 +7,7 @@
 
 ---
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=andyninety9&show_icons=true&theme=tokyonight&hide=contribs,issues" width="48%">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=andyninety9&show_icons=true&theme=tokyonight&hide=contribs,issues" width="45%">
 
 ### 🙋‍♂️ About Me
 - <img src="https://media.giphy.com/media/XuBtcsV266vepmoEYG/giphy.gif" width="30" /> I am a student at [FPT University.](https://daihoc.fpt.edu.vn/)
@@ -38,14 +38,14 @@
 ---
 
 ### 📊 GitHub Stats
-<div align="center">
+<div align="center" style="font-size:14px">
     <img src="https://github-readme-stats.vercel.app/api?username=andyninety9&show_icons=true&theme=radical" width="48%" alt="GitHub Stats"/>
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=andyninety9&theme=radical" width="100%" alt="GitHub Activity Graph"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andyninety9&layout=compact&theme=radical" width="48%" alt="Top Languages"/>
 </div>
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andyninety9&layout=compact&theme=radical" width="48%" alt="Top Languages"/>
+<div align="center" style="font-size:14px">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andyninety9&theme=radical" width="48%" alt="Repos Per Language"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andyninety9&theme=radical" width="48%" alt="Most Commit Language"/>
 </div>
 
 ---
