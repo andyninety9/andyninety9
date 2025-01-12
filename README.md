@@ -20,14 +20,16 @@
 ### 🚀 Tech Stack
 
 #### Languages
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 #### Frameworks and Tools
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -37,12 +39,13 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=andyninety9&show_icons=true&theme=radical&hide=contribs" width="48%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=andyninety9&theme=radical" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=andyninety9&show_icons=true&theme=radical" width="48%" alt="GitHub Stats"/>
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=andyninety9&theme=radical" width="100%" alt="GitHub Activity Graph"/>
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andyninety9&layout=compact&theme=radical" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andyninety9&layout=compact&theme=radical" width="48%" alt="Top Languages"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andyninety9&theme=radical" width="48%" alt="Repos Per Language"/>
 </div>
 
 ---
